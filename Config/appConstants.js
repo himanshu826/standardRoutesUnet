@@ -1,6 +1,6 @@
 const SERVER = {
     APP_NAME: 'UNET App',
-    JWT_SECRET_KEY: 'MaEHqzXzdWrCS6TS',
+    JWT_SECRET_KEY: '',
 };
 
 const AUTH = {
